@@ -1,0 +1,34 @@
+﻿  Źródło.cpp
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(94,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(97,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(98,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(131,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(237,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(320,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(321,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(328,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(347,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(403,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(447,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(458,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(489,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(495,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(496,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(517,22): warning C4244: "argument": konwersja z "double" do "const unsigned int", możliwa utrata danych
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(519,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(527,26): warning C4244: "argument": konwersja z "double" do "const unsigned int", możliwa utrata danych
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(540,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(545,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(550,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(557,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(563,13): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(571,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(626,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(627,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(633,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(634,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(644,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(656,54): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(658,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\source\repos\MES2\MES2\Źródło.cpp(660,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  MES2.vcxproj -> C:\Users\kubas\source\repos\MES2\Debug\MES2.exe
